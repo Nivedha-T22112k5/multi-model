@@ -1,0 +1,10 @@
+flask
+python-dotenv
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+langchain-groq
+pypdf
+python-docx
+gunicorn
